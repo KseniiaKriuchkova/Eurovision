@@ -25,5 +25,4 @@ def preprocess(text):
         if token not in STOP_WORDS and len(token) > 1
     ]
 
-    return [token for token in tokens if token not in STOP_WORDS and len(token) > 1]
-
+    return processed
