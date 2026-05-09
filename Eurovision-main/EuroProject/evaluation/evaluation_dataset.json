@@ -1,0 +1,52 @@
+[
+    {
+        "query": "songs about peace and war",
+        "relevant_docs": [440, 523, 1357, 1427, 1522, 1690]
+    },
+    
+    {
+        "query": "emotional ballads about heartbreak",
+        "relevant_docs": [3, 27, 96, 155, 400, 525, 538, 549, 1562, 1617, 1640]
+    },
+
+    {
+        "query": "dancing and disco party",
+        "relevant_docs":[280, 367, 373, 416, 524, 689, 779, 1251, 1266, 1486, 1677, 1695]
+    },
+
+    {
+        "query":  "lyrics mentioning fire and flames",
+        "relevant_docs": [264, 357, 717, 998, 1182, 1498, 1526]
+    },
+
+    {
+        "query": "mental health and sadness",
+        "relevant_docs":[500, 682, 777, 782, 1425, 1427, 1446, 1493, 1555, 1562, 1572, 1585, 1610, 1640, 1676]
+    },
+
+    {
+        "query": "moon and stars in the night sky",
+        "relevant_docs":[160, 419, 720, 728, 741, 1056]
+    },
+
+    {
+        "query": "traditional folk instruments and culture",
+        "relevant_docs":[0, 372, 570, 592, 648, 927, 936, 1113, 1131, 1146, 1168, 1183, 1642]    
+    },
+    
+    {
+        "query": "flying high like a bird",
+        "relevant_docs": [344, 833, 1194, 1340, 1793]
+    },
+
+    {
+        "query": "romantic love songs",
+        "relevant_docs": [30, 56, 117, 136, 168, 189, 313, 350, 475, 538, 559, 602, 644, 664, 780, 811, 1446, 1555, 1617]
+    },
+
+    {
+        "query": "songs about water and the sea",
+        "relevant_docs": [755, 1155, 1598]
+
+    }
+]
